@@ -12,14 +12,14 @@ import Footer from './components/Footer';
 
 function App() {
   return (
-    <>
+    <div>
     <Header />
     <Banners />
     <Experts />
     <NewsLetter />
     <Cards />
     <Footer />
-    </>
+    </div>
   );
 }
 
